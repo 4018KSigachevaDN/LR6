@@ -64,7 +64,7 @@
 
 ![image](https://github.com/4018KSigachevaDN/LR6/blob/master/images/18.png)
 
-*Оформляем отчёт в файле README.md *
+*Оформляем отчёт в файле README.md 
 
 *Получаем итоговую историю операций.  Комманда: `git log`*
 
